@@ -1,0 +1,7 @@
+# Local spreadsheet build artifacts
+node_modules/
+.sheet-build/
+outputs/
+
+# macOS
+.DS_Store
